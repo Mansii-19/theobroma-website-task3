@@ -10,9 +10,6 @@ This project is a front-end website inspired by **Theobroma**, developed as part
 - **CSS3** – Styling, layout, and responsiveness  
 - **JavaScript** – Interactivity and dynamic behavior  
 
-> Note: The project is built using **vanilla JavaScript only**, without any frameworks or libraries.
-
----
 
 ## ✨ Features
 - Multiple pages added for better website structure  
